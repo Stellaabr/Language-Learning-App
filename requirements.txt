@@ -1,0 +1,5 @@
+pandas==2.2.3
+pefile==2023.2.7
+PyQt5==5.15.10
+PyQt5-sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyqt-split_1699478669290/work/pyqt_sip
+
